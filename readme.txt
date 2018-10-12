@@ -66,5 +66,3 @@ _A list of my commonly used Git commands_
 
 
 
-Alpha 
-Ari 
