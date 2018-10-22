@@ -65,3 +65,5 @@ _A list of my commonly used Git commands_
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
 
+help to commit
+
