@@ -1,4 +1,4 @@
-Git Commands
+Git Commands - Test branch
 ============
 
 _A list of my commonly used Git commands_
@@ -64,4 +64,6 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
-
+HI 
+this 
+is test merge
